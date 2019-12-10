@@ -1,0 +1,175 @@
+baseURL = "https://example.edu"
+languageCode = "en-us"
+title = "Blair Perry"
+theme = "avicenna"
+#googleAnalytics = "UA-1234-6"
+timeout=3000
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+
+[params]
+  subtitle= "PhD Student"
+  interests="Evolutionary, Comparative, and Functional Genomics"
+  #cv_name= ""
+  #blog=""
+
+[[params.affilation]]
+  name = "The University of Texas Arlington"
+  position = "PhD Candidate"
+  contact = "blair.perry[at]uta.edu"
+
+
+#[[params.social]]
+#  name = "GitHub"
+#  icon = "github"
+#  url = "https://github.com/hadisinaee"
+
+[[params.social]]
+  name = "Twitter"
+  icon = "twitter"
+  url = "https://twitter.com/hadisinaee"
+
+
+[[params.introduction.paragraph]]
+  text="""Hello! My website is currently under construction - please bear with me as I migrate info from my old website!
+   """
+
+
+[[params.projects]]
+	[[params.projects.project]]
+		name = "Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor"
+		description  = "Enim facilisis gravida neque convallis a. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse.Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor. In nisl nisi scelerisque eu ultrices vitae auctor."
+		#project_page = ""
+		code_link = "https://coderepo.com"
+		blog_link = "https://ablogpost.com"
+
+ [[params.projects.project]]
+		name = "In nisl nisi scelerisque eu ultrices vitae auctor"
+		description  = ""
+		project_page = "https://myprojecthomepage.com"
+		code_link = "https://coderepo.com"
+		blog_link = ""
+
+ [[params.projects.project]]
+		name = "Integer eget aliquet nibh praesent tristique magna"
+		description  = ""
+		project_page = "https://myprojecthomepage.com"
+		code_link = ""
+		blog_link = "https://ablogpost.com"
+
+
+[[params.publications]]
+  year="2019"
+
+  [[params.publications.paper]]
+		name = "Multi-species comparisons of snakes identify coordinated signaling networks underlying post-feeding intestinal regeneration"
+		authors = "__Perry, B.W.__, A.L. Andrew, A.H.M. Kamal, D.C. Card, D.R. Schield, G.I.M. Pasquesi, M.W Pellegrino, S.P. Mackessy, S.M. Chowdhury, S.M. Secor, and T.A. Castoe"
+		dest  = "_Proceedings of the Royal Society of London B_"
+		link = "https://royalsocietypublishing.org/doi/10.1098/rspb.2019.0910"
+		code_link = ""
+		blog_link = ""
+
+  [[params.publications.paper]]
+		name = "Allopatric divergence and secondary contact with gene flow – a recurring theme in rattlesnake speciation"
+		authors = "Schield, D.R.†, __B. W. Perry†__, R. H. Adams, D. C. Card, T. Jezkova, G. I.M. Pasquesi, Z. L. Nikolakis, K. Row, J. M. Meik, C. F. Smith, S. P. Mackessy, and T. A. Castoe (†Co-first authors)"
+		dest  = "_Biological Journal of the Linnean Society_"
+		link = "https://academic.oup.com/biolinnean/advance-article/doi/10.1093/biolinnean/blz077/5523649"
+		code_link = ""
+		blog_link = ""
+
+  [[params.publications.paper]]
+		name = "The origins and evolution of chromosomes, dosage compensation, and mechanisms underlying venom regulation in snakes"
+		authors = "Schield, D.R., D.C. Card, N.M. Hales, __B.W. Perry__, G.I.M. Pasquesi, H. Blackmon, R.H. Adams, A.B. Corbin, C.F. Smith, B. Ramesh, J.P. Demuth, E. Betran, M. Tollis, J.M. Meik, S.P. Mackessy and T.A. Castoe"
+		dest  = "_Genome Research_"
+		link = "https://genome.cshlp.org/content/29/4/590"
+		code_link = "https://nam05.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffigshare.com%2Fprojects%2FPrairie_rattlesnake_Crotalus_viridis_genome_assembly_and_annotation%2F66560&data=02%7C01%7Ctodd.castoe%40uta.edu%7Cef35e8799f554ee49ba408d7104b1971%7C5cdc5b43d7be4caa8173729e3b0a62d9%7C0%7C0%7C636995787037483313&sdata=%2B6ugCboFDQReMI2OUuL%2F%2FNko2Y7uDxnpm6kDIspWGFk%3D&reserved=0"
+		blog_link = ""
+
+[[params.publications]]
+  year="2018"
+
+  [[params.publications.paper]]
+		name = "Novel ecological and climatic conditions drive rapid adaptation in invasive Florida Burmese pythons"
+		authors = "Card, D.C., __B.W. Perry__, R.H. Adams, D.R. Schield, A. Young, A.L. Andrew, T. Jezkova, M.R. Walsh, M. Rockford, F. Mazzotti, K. Hart, M. Hunter, and T.A. Castoe"
+		dest  = "_Molecular Ecology_"
+		link = "https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14885"
+		code_link = ""
+		blog_link = ""
+
+  [[params.publications.paper]]
+		name = "Evolution: Plasticity versus selection, or plasticity and selection?"
+		authors = "__Perry, B.W.__, D.R. Schield, and T.A. Castoe"
+		dest  = "Current Biology"
+		link = "https://www.cell.com/current-biology/fulltext/S0960-9822(18)30980-1"
+		code_link = ""
+		blog_link = ""
+		
+	[[params.publications.paper]]
+    name = "Molecular adaptations for sensing and securing prey, and insight into amniote genome diversity, from the garter snake genome"
+    authors = "__Perry, B.W.__, D.C. Card, J.W. McGlothlin, G.I.M. Pasquesi, R.H. Adams, D.R. Schield, N.R. Hales, A.B. Corbin, J.P. Demuth, F.G. Hoffmann, M.W. Vandewege, R. Schott, N. Bhattacharyya, B.S.W. Chang, N.R. Casewell, G. Whiteley, J. Reyes-Velasco, S.P. Mackessy, T. Gamble, K.B. Storey, K.K. Biggar, C.N. Passow, C. Kuo, S.E. McGaugh, A.M. Bronikowski, J. de Koning, S.V. Edwards, M.E. Pfrender, P. Minx, E.D. Brodie III, E.D. Brodie, Jr., W.C. Warren, and T.A. Castoe"
+    dest  = "_Genome Biology and Evolution_"
+    link = "https://academic.oup.com/gbe/article/10/8/2110/5061318?guestAccessKey=56ba9516-8d77-4c3d-a6df-1164c74cde38"
+    code_link = ""
+    blog_link = ""
+
+	[[params.publications.paper]]
+    name = "Squamate reptiles challenge paradigms of genomic repeat element evolution set by birds and mammals"
+    authors = "Pasquesi, G.I.M., R.H. Adams, D.C. Card, D.R. Schield, __B.W. Perry__, A.B. Corbin, J. Reyes-Velasco, R.P. Ruggiero, M.W. Vandewege, J.A. Shortt, and T.A. Castoe"
+    dest  = "_Nature Communications_"
+    link = "https://www.nature.com/articles/s41467-018-05279-1"
+    code_link = ""
+    blog_link = ""
+
+	[[params.publications.paper]]
+    name = "Cryptic genetic diversity, population structure, and gene flow in Mohave rattlesnakes (Crotalus scutulatus)"
+    authors = "Schield, D.R, D.C. Card, R.H Adams, A.B. Corbin, T. Jezkova, N.R. Hales, J.M. Meik, __B.W. Perry__, C.L. Spencer, L.L. Smith, G. Campillo Garcia, N.M. Bouzid, J.L. Strickland, R.W. Bryson Jr., C.L. Parkinson, O. Flores-Viella, S.P. Mackessy and T.A. Castoe"
+    dest  = "_Molecular Phylogenetics and Evolution_"
+    link = "https://www.sciencedirect.com/science/article/pii/S1055790317304992?via%3Dihub"
+    code_link = ""
+    blog_link = ""
+
+
+[[params.publications]]
+  year="2017"
+
+  [[params.publications.paper]]
+		name = "Growth and stress response mechanisms underlying post-feeding regenerative organ growth in the Burmese python"
+		authors = "Andrew, A.L.†, __B.W. Perry†__, D.C. Card, D.R. Schield, R.P. Ruggiero, S.E. McGaugh, A. Chowdhary, S.M. Secor, and T.A. Castoe (†Co-first authors)"
+		dest  = "_BMC Genomics_"
+		link = "https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3743-1"
+		code_link = ""
+		blog_link = ""
+
+  [[params.publications.paper]]
+		name = "Insight into the roles of selection in speciation from genomic patterns of divergence and introgression in secondary contact in venomous rattlesnakes"
+		authors = "Schield, D.R., R.H. Adams, D.C. Card, __B.W. Perry__, G.I.M. Pasquesi, T. Jezkova, D.M. Portik, A.L. Andrew, C.L. Spencer, E.E. Sanchez, M.K. Fujita, S.P. Mackessy, and T.A. Castoe"
+		dest  = "_Ecology and Evolution_"
+		link = "https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.2996"
+		code_link = ""
+		blog_link = ""
+	
+	
+	
+[[params.publications]]
+  year="2016"
+
+  [[params.publications.paper]]
+		name = "Phylogeographic and population genetic analyses reveal multiple species of Boa and independent origins of insular dwarfism"
+		authors = "Card, D.C., D.R Schield, R.H. Adams, A.B. Corbin, __B.W. Perry__, A.L. Andrew, G.I.M. Pasquesi, E.N. Smith, T. Jezkova, S.M. Boback, W. Booth, and T.A. Castoe"
+		dest  = "_Molecular Phylogenetics and Evolution_"
+		link = "https://www.sciencedirect.com/science/article/pii/S1055790316301245?via%3Dihub"
+		code_link = ""
+		blog_link = ""
+
+  [[params.publications.paper]]
+		name = "No safety in the trees: Evidence of local and lineage-level adaptation of the Eastern gray squirrel (Sciurus carolinensis) to resisting venom of sympatric rattlesnakes"
+		authors = "Pomento, A.M†, __B.W. Perry†__, R.D. Denton, H.L. Gibbs, M.L. Holding (†Co-first authors)"
+		dest  = "_Toxicon_"
+		link = "https://www.sciencedirect.com/science/article/pii/S0041010116301295"
+		code_link = ""
+		blog_link = ""
+		
+		
+		
+		
+	
