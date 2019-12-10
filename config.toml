@@ -27,7 +27,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[params.social]]
   name = "Twitter"
   icon = "twitter"
-  url = "https://twitter.com/hadisinaee"
+  url = "https://twitter.com/blairperry614"
 
 
 [[params.introduction.paragraph]]
