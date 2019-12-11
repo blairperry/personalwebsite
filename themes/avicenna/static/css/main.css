@@ -144,6 +144,7 @@ ul.flat {
 }
 
 ul.flat li {
+  list-style-position: outside;
   display: inline-block;
   list-style: none;
   margin-left: 0;
