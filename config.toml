@@ -106,7 +106,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     blog_link = ""
 
 	[[params.publications.paper]]
-    name = "Cryptic genetic diversity, population structure, and gene flow in Mohave rattlesnakes (Crotalus scutulatus)"
+    name = "Cryptic genetic diversity, population structure, and gene flow in Mohave rattlesnakes (_Crotalus scutulatus_)"
     authors = "Schield, D.R, D.C. Card, R.H Adams, A.B. Corbin, T. Jezkova, N.R. Hales, J.M. Meik, __B.W. Perry__, C.L. Spencer, L.L. Smith, G. Campillo Garcia, N.M. Bouzid, J.L. Strickland, R.W. Bryson Jr., C.L. Parkinson, O. Flores-Viella, S.P. Mackessy and T.A. Castoe"
     dest  = "_Molecular Phylogenetics and Evolution_"
     link = "https://www.sciencedirect.com/science/article/pii/S1055790317304992?via%3Dihub"
