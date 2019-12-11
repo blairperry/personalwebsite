@@ -294,11 +294,11 @@ ul {
 }
 
 .project {
-  margin: .5em -.5em 0em;
+/*   margin: .5em -.5em 0em; */
 }
 
 .publications {
-  margin-left: -.5em;
+/*   margin-left: -.5em; */
 }
 
 .code_blog {
