@@ -14,7 +14,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   #blog=""
 
 [[params.affilation]]
-  name = "The University of Texas Arlington"
+  name = "The Castoe Lab @ The University of Texas Arlington"
   position = "PhD Candidate"
   contact = "blair.perry[at]uta.edu"
 
