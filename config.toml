@@ -147,7 +147,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 		blog_link = ""
 
   [[params.publications.paper]]
-		name = "No safety in the trees: Evidence of local and lineage-level adaptation of the Eastern gray squirrel (Sciurus carolinensis) to resisting venom of sympatric rattlesnakes"
+		name = "No safety in the trees: Evidence of local and lineage-level adaptation of the Eastern gray squirrel (_Sciurus carolinensis_) to resisting venom of sympatric rattlesnakes"
 		authors = "Pomento, A.M†, __B.W. Perry†__, R.D. Denton, H.L. Gibbs, M.L. Holding (†Co-first authors)"
 		dest  = "_Toxicon_"
 		link = "https://www.sciencedirect.com/science/article/pii/S0041010116301295"
