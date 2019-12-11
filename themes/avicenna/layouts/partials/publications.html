@@ -10,9 +10,9 @@
 		{{ range $elem_index, $publication := $publications.paper }}
 		<li>
 			{{ if $publication.link }}
-			<a href="{{ $publication.link }}" class="publications"> {{ $publication.name }}, </a>
+			<a href="{{ $publication.link }}" class="publications"> {{ $publication.name | markdownify }}, </a>
 			{{ else }}
-			<p class="publications"> {{ $publication.name }}, </p>
+			<p class="publications"> {{ $publication.name | markdownify }}, </p>
 			{{ end }}
 			{{ $publication.dest | markdownify }}.
 
