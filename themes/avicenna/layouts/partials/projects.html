@@ -7,7 +7,7 @@
 
 		{{ range $elem_index, $project := $projects_map.project }}
 		<li>
-			<a href="{{ $project.project_page }}" class="project"> {{ $project.name }}</a>
+			{{ $project.name }}
 
 			{{ if or ($project.code_link) ($project.blog_link) }}
 			<span class="code_blog">
