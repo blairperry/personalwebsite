@@ -37,11 +37,33 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[params.projects]]
 	[[params.projects.project]]
-		name = "Coming Soon!"
+		name = "Functional genomics of physiological adaptations"
 		description  = ""
 		#project_page = ""
 		code_link = ""
 		blog_link = ""
+
+  [[params.projects.project]]
+    name = "Evolution and regulation of venom systems"
+    description  = ""
+    #project_page = ""
+    code_link = ""
+    blog_link = ""
+
+  [[params.projects.project]]
+    name = "Comparative genomic structure and function in vertebrates"
+    description  = ""
+    #project_page = ""
+    code_link = ""
+    blog_link = ""
+
+  [[params.projects.project]]
+    name = "Evolution of gene regulatory machinery and networks"
+    description  = ""
+    #project_page = ""
+    code_link = ""
+    blog_link = ""
+
 
 [[params.publications]]
   year="2019"
