@@ -16,8 +16,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[params.affilation]]
   name = "The Castoe Lab @ The University of Texas Arlington"
   position = "PhD Candidate"
-  contact = "[Google Scholar](testlink.com)
-  blair.perry[at]uta.edu"
+  contact = "blair.perry[at]uta.edu"
 
 #[[params.social]]
 #  name = "GitHub"
