@@ -31,7 +31,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 [[params.introduction.paragraph]]
-  text="""Hello! I am a PhD student in the Castoe Lab using comparative functional genomics to understand the evolution and regulation of extreme vertebrate adaptations.
+  text="""Hello! I am a PhD student in the Castoe Lab using comparative functional genomics to study the evolution and regulation of extreme vertebrate adaptations.
   This website is currently under construction, so stay tuned for additional updates and information!
    """
 
