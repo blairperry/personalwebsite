@@ -15,6 +15,10 @@
 			{{ end }}
 			{{ $publication.dest | markdownify }}.
 
+			<span class="collaborators">
+				{{ $publication.authors | markdownify }}
+			</span>
+
 			{{ if or ($publication.code_link) $publication.blog_link }}
 			<span class="code_blog">
 				{{ with $publication.code_link }}
@@ -27,9 +31,6 @@
 			</span>
 			{{ end }}
 
-			<span class="collaborators">
-				{{ $publication.authors | markdownify }}
-			</span>
 		</li>
 		{{ end }}
 	</ul>
