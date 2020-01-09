@@ -66,6 +66,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 [[params.publications]]
+  year="2020"
+
+  [[params.publications.paper]]
+		name = "Snake recombination landscapes are concentrated in functional regions despite PRDM9"
+		authors = "Schield, D.R., G.I.M. Pasquesi, __B.W. Perry__, R.H. Adams, Z.L. Nikolakis, A.K. Westfall, R.W. Orton, J.M. Meik, S.P. Mackessy, and T.A. Castoe"
+		dest  = "_Molecular Biology and Evolution_"
+		link = ""
+		code_link = ""
+		blog_link = ""
+
+[[params.publications]]
   year="2019"
 
   [[params.publications.paper]]
