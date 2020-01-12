@@ -72,7 +72,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 		name = "Snake recombination landscapes are concentrated in functional regions despite PRDM9"
 		authors = "Schield, D.R., G.I.M. Pasquesi, __B.W. Perry__, R.H. Adams, Z.L. Nikolakis, A.K. Westfall, R.W. Orton, J.M. Meik, S.P. Mackessy, and T.A. Castoe"
 		dest  = "_Molecular Biology and Evolution_"
-		link = ""
+		link = "https://academic.oup.com/mbe/advance-article-abstract/doi/10.1093/molbev/msaa003/5700722?redirectedFrom=fulltext"
 		code_link = "https://figshare.com/articles/Rattlesnake_Recombination_Maps/11283224"
 		blog_link = ""
 
