@@ -70,7 +70,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   [[params.publications.paper]]
 		name = "Vertebrate lineages exhibit diverse patterns of transposable element regulation and expression across tissues"
-		authors = "Pasquesi, G.I.M., R.P. Ruggiero, __B.W. Perry__, M.W. Vandewege, D.R. Schield, and T.A. Castoe"
+		authors = "Pasquesi, __B.W. Perry__, G.I.M., R.P. Ruggiero, M.W. Vandewege, D.R. Schield, and T.A. Castoe"
 		dest  = "In press at _Genome Biology and Evolution_"
 		link = ""
 		code_link = ""
