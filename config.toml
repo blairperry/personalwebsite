@@ -69,6 +69,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   year="2020"
 
   [[params.publications.paper]]
+		name = "SVertebrate lineages exhibit diverse patterns of transposable element regulation and expression across tissues"
+		authors = "Pasquesi, G.I.M., R.P. Ruggiero, __B.W. Perry__, M.W. Vandewege, D.R. Schield, and T.A. Castoe"
+		dest  = "In press at _Genome Biology and Evolution_"
+		link = ""
+		code_link = ""
+		blog_link = ""
+
+  [[params.publications.paper]]
 		name = "Snake recombination landscapes are concentrated in functional regions despite PRDM9"
 		authors = "Schield, D.R., G.I.M. Pasquesi, __B.W. Perry__, R.H. Adams, Z.L. Nikolakis, A.K. Westfall, R.W. Orton, J.M. Meik, S.P. Mackessy, and T.A. Castoe"
 		dest  = "_Molecular Biology and Evolution_"
