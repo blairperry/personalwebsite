@@ -72,7 +72,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 		name = "Discovery and characterization of New Delhi metallo-β-lactamase-1 inhibitor peptides that potentiate meropenem-dependent killing of carbapenemase-producing _Enterobacteriaceae_"
 		authors = "Kazi, M.I., __B.W. Perry__, D.C. Card, R.D. Schargel, H.B. Ali, V.C. Obuekwe, M. Sapkota, K.N. Kang, M.W. Pellegrino, D.E. Greenberg, T.A. Castoe, & J.M. Boll."
 		dest  = "Accepted at _Journal of Antimicrobial Chemotherapy_"
-		link = "https://www.biorxiv.org/content/10.1101/2020.03.30.015008v1"
+		link = ""
 		code_link = ""
 		blog_link = ""
 
