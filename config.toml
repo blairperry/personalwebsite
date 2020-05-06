@@ -69,6 +69,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   year="2020"
 
   [[params.publications.paper]]
+		name = "Discovery and characterization of New Delhi metallo-β-lactamase-1 inhibitor peptides that potentiate meropenem-dependent killing of carbapenemase-producing _Enterobacteriaceae_"
+		authors = "Kazi, M.I., __B.W. Perry__, D.C. Card, R.D. Schargel, H.B. Ali, V.C. Obuekwe, M. Sapkota, K.N. Kang, M.W. Pellegrino, D.E. Greenberg, T.A. Castoe, & J.M. Boll."
+		dest  = "Accepted at _Journal of Antimicrobial Chemotherapy_"
+		link = "https://www.biorxiv.org/content/10.1101/2020.03.30.015008v1"
+		code_link = ""
+		blog_link = ""
+
+  [[params.publications.paper]]
 		name = "Evolutionary origins of the SARC-CoV-2 sarbecovirus lineage responsible for the COVID-19 pandemic"
 		authors = "Boni, M.F., P. Lemey, X. Jiang, T. Tsan-Yuk Lam, __B.W. Perry__, T.A. Castoe, A. Rambout, and D.L. Robinson."
 		dest  = "__Preprint__ on BioRxiv"
