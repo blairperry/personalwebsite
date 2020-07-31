@@ -71,8 +71,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [[params.publications.paper]]
 		name = "Evolutionary origins of the SARC-CoV-2 sarbecovirus lineage responsible for the COVID-19 pandemic"
 		authors = "Boni, M.F., P. Lemey, X. Jiang, T. Tsan-Yuk Lam, __B.W. Perry__, T.A. Castoe, A. Rambout, and D.L. Robinson."
-		dest  = "__Preprint__ on BioRxiv"
-		link = "https://www.biorxiv.org/content/10.1101/2020.03.30.015008v1"
+		dest  = "_Nature Microbiology_"
+		link = "https://www.nature.com/articles/s41564-020-0771-4"
 		code_link = ""
 		blog_link = ""
 
@@ -94,7 +94,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   [[params.publications.paper]]
 		name = "Vertebrate lineages exhibit diverse patterns of transposable element regulation and expression across tissues"
-		authors = "Pasquesi, __B.W. Perry__, G.I.M., R.P. Ruggiero, M.W. Vandewege, D.R. Schield, and T.A. Castoe"
+		authors = "Pasquesi,G.I.M., __B.W. Perry__, R.P. Ruggiero, M.W. Vandewege, D.R. Schield, and T.A. Castoe"
 		dest  = "_Genome Biology and Evolution_"
 		link = "https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evaa068/5818493"
 		code_link = ""
