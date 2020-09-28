@@ -71,8 +71,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [[params.publications.paper]]
 		name = "Microchromosomesexhibitdistinctfeaturesofvertebrate chromosome structure and function with underappreciated ramifications for genome evolution"
 		authors = "__Perry, B.W.__, D.R. Schield, R.H. Adams, & T.A. Castoe."
-		dest  = "Accepted at _Molecular Biology and Evolution_"
-		link = ""
+		dest  = "In press at _Molecular Biology and Evolution_"
+		link = "https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaa253/5912540"
 		code_link = ""
 		blog_link = ""
 
