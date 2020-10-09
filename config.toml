@@ -69,6 +69,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   year="2020"
 
   [[params.publications.paper]]
+		name = "Physiological demands and signaling associated with snake venom production and storage illustrated by transcriptional analyses of venom glands"
+		authors = "__Perry, B.W.__, D.R. Schield, A.K. Westfall, S.P. Mackessy, & T.A. Castoe"
+		dest  = "Accepted at _Scientific Reports_"
+		link = ""
+		code_link = ""
+		blog_link = ""
+
+  [[params.publications.paper]]
 		name = "Microchromosomes exhibit distinct features of vertebrate chromosome structure and function with underappreciated ramifications for genome evolution"
 		authors = "__Perry, B.W.__, D.R. Schield, R.H. Adams, & T.A. Castoe."
 		dest  = "In press at _Molecular Biology and Evolution_"
