@@ -71,8 +71,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [[params.publications.paper]]
 		name = "Physiological demands and signaling associated with snake venom production and storage illustrated by transcriptional analyses of venom glands"
 		authors = "__Perry, B.W.__, D.R. Schield, A.K. Westfall, S.P. Mackessy, & T.A. Castoe"
-		dest  = "Accepted at _Scientific Reports_"
-		link = ""
+		dest  = "_Scientific Reports_"
+		link = "https://www.nature.com/articles/s41598-020-75048-y"
 		code_link = ""
 		blog_link = ""
 
