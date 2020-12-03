@@ -68,6 +68,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   year="2020"
 
   [[params.publications.paper]]
+		name = "Patterns of transmission, relatedness, and genetic diversity inferred from whole genome sequencing of archival blood fluke miracidia (_Schistosoma japonicum_)"
+		authors = "Nikolakis, Z.L., N.R. Hales, __B.W. Perry__, D.R. Schield, L.E. Timm, Y., Liu, B. Zhong, K.J. Kechris, D.D. Pollock, E. Carlton, and T.A. Castoe"
+		dest  = "In press at _PLoS Neglected Tropical Diseases_"
+		link = ""
+		code_link = ""
+		blog_link = ""
+
+  [[params.publications.paper]]
 		name = "Physiological demands and signaling associated with snake venom production and storage illustrated by transcriptional analyses of venom glands"
 		authors = "__Perry, B.W.__, D.R. Schield, A.K. Westfall, S.P. Mackessy, & T.A. Castoe"
 		dest  = "_Scientific Reports_"
@@ -78,7 +86,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [[params.publications.paper]]
 		name = "Microchromosomes exhibit distinct features of vertebrate chromosome structure and function with underappreciated ramifications for genome evolution"
 		authors = "__Perry, B.W.__, D.R. Schield, R.H. Adams, & T.A. Castoe."
-		dest  = "In press at _Molecular Biology and Evolution_"
+		dest  = "_Molecular Biology and Evolution_"
 		link = "https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaa253/5912540"
 		code_link = ""
 		blog_link = ""
