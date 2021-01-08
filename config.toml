@@ -65,15 +65,18 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 [[params.publications]]
-  year="2020"
+  year="2021"
 
   [[params.publications.paper]]
 		name = "Patterns of transmission, relatedness, and genetic diversity inferred from whole genome sequencing of archival blood fluke miracidia (_Schistosoma japonicum_)"
 		authors = "Nikolakis, Z.L., N.R. Hales, __B.W. Perry__, D.R. Schield, L.E. Timm, Y., Liu, B. Zhong, K.J. Kechris, D.D. Pollock, E. Carlton, and T.A. Castoe"
-		dest  = "In press at _PLoS Neglected Tropical Diseases_"
-		link = ""
+		dest  = "_PLoS Neglected Tropical Diseases_"
+		link = "https://journals.plos.org/plosntds/article/metrics?id=10.1371/journal.pntd.0009020"
 		code_link = ""
 		blog_link = ""
+
+[[params.publications]]
+  year="2020"
 
   [[params.publications.paper]]
 		name = "Physiological demands and signaling associated with snake venom production and storage illustrated by transcriptional analyses of venom glands"
