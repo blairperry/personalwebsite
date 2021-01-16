@@ -68,6 +68,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   year="2021"
 
   [[params.publications.paper]]
+		name = "Population genomic analyses confirm male-biased mutation rates in snakes"
+		authors = "Schield, D.R., __B.W. Perry__, Z.L. Nikolakis, S.P. Mackessy, and T.A. Castoe"
+		dest  = "Accepted at _Journal of Heredity_"
+		link = ""
+		code_link = ""
+		blog_link = ""
+
+  [[params.publications.paper]]
 		name = "Patterns of transmission, relatedness, and genetic diversity inferred from whole genome sequencing of archival blood fluke miracidia (_Schistosoma japonicum_)"
 		authors = "Nikolakis, Z.L., N.R. Hales, __B.W. Perry__, D.R. Schield, L.E. Timm, Y., Liu, B. Zhong, K.J. Kechris, D.D. Pollock, E. Carlton, and T.A. Castoe"
 		dest  = "_PLoS Neglected Tropical Diseases_"
