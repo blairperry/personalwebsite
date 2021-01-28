@@ -71,7 +71,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 		name = "Population genomic analyses confirm male-biased mutation rates in snakes"
 		authors = "Schield, D.R., __B.W. Perry__, Z.L. Nikolakis, S.P. Mackessy, and T.A. Castoe"
 		dest  = "Accepted at _Journal of Heredity_"
-		link = ""
+		link = "https://academic.oup.com/jhered/advance-article/doi/10.1093/jhered/esab005/6121357?guestAccessKey=704347b7-d3b7-42c7-b443-2fb53b352977"
 		code_link = ""
 		blog_link = ""
 
