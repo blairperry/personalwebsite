@@ -68,6 +68,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   year="2021"
 
   [[params.publications.paper]]
+		name = "Population genomic analyses of schistosome parasites highlights critical challenges facing end-game elimination efforts"
+		authors = "Schort, J.A., L.E. Timm, N.R. Hales, Z.L. Nikolakis, D.R. Schield, __B.W. Perry__, Y. Liu, B. Zhong, T.A. Castoe, E.J. Carlton, & D.D. Pollock"
+		dest  = "Accepted at _Scientific Reports_"
+		link = ""
+		code_link = ""
+		blog_link = ""
+
+  [[params.publications.paper]]
 		name = "Population genomic analyses confirm male-biased mutation rates in snakes"
 		authors = "Schield, D.R., __B.W. Perry__, Z.L. Nikolakis, S.P. Mackessy, and T.A. Castoe"
 		dest  = "Accepted at _Journal of Heredity_"
