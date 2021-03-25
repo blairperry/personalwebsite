@@ -69,9 +69,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   [[params.publications.paper]]
 		name = "Population genomic analyses of schistosome parasites highlights critical challenges facing end-game elimination efforts"
-		authors = "Schort, J.A., L.E. Timm, N.R. Hales, Z.L. Nikolakis, D.R. Schield, __B.W. Perry__, Y. Liu, B. Zhong, T.A. Castoe, E.J. Carlton, & D.D. Pollock"
-		dest  = "Accepted at _Scientific Reports_"
-		link = ""
+		authors = "Shortt, J.A., L.E. Timm, N.R. Hales, Z.L. Nikolakis, D.R. Schield, __B.W. Perry__, Y. Liu, B. Zhong, T.A. Castoe, E.J. Carlton, & D.D. Pollock"
+		dest  = "_Scientific Reports_"
+		link = "https://www.nature.com/articles/s41598-021-86287-y#article-info"
 		code_link = ""
 		blog_link = ""
 
