@@ -1,6 +1,6 @@
 baseURL = "https://blairperry.netlify.com"
 languageCode = "en-us"
-title = "Blair Perry"
+title = "Blair W. Perry, Ph.D."
 theme = "avicenna"
 googleAnalytics = "UA-141897273-2"
 timeout=3000
@@ -15,7 +15,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[params.affilation]]
   name = "The Castoe Lab @ The University of Texas Arlington"
-  position = "PhD Candidate"
+  position = "Post-doctoral Researcher"
   contact = "blair.perry[at]uta.edu"
 
 #[[params.social]]
@@ -30,7 +30,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 [[params.introduction.paragraph]]
-  text="""Hello! I am a PhD candidate in the [Castoe Lab](http://www.castoelaboratory.org/) using comparative functional genomics to study the evolution and regulation of vertebrate adaptations.
+  text="""Hello! I am a post-doctoral researcher in the [Castoe Lab](http://www.castoelaboratory.org/) using comparative functional genomics to study the evolution and regulation of vertebrate adaptations.
    """
 
 
