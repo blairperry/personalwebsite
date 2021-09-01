@@ -14,7 +14,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   blog="https://scholar.google.com/citations?user=d8A1zCEAAAAJ&hl=en" # actually google scholar link now
 
 [[params.affilation]]
-  name = "The Castoe Lab @ The University of Texas Arlington"
+  name = "The Kelley Lab @ Washington State University"
   position = "Post-doctoral Researcher"
   contact = "blair.perry[at]uta.edu"
 
@@ -30,7 +30,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 [[params.introduction.paragraph]]
-  text="""Hello! I am a post-doctoral researcher in the [Castoe Lab](http://www.castoelaboratory.org/) using comparative functional genomics to study the evolution and regulation of vertebrate adaptations.
+  text="""Hello! I am a post-doctoral researcher in the [Kelley Lab](https://labs.wsu.edu/genomes/) using comparative functional genomics to study the evolution and regulation of vertebrate adaptations.
    """
 
 
@@ -43,7 +43,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 		# blog_link = ""
 
   [[params.projects.project]]
-    name = "Evolution and regulation of venom systems"
+    name = "Evolution of gene regulatory machinery and networks"
     # description  = ""
 		# project_page = ""
 		# code_link = ""
@@ -57,7 +57,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 		# blog_link = ""
 
   [[params.projects.project]]
-    name = "Evolution of gene regulatory machinery and networks"
+    name = "Evolution and regulation of venom systems"
     # description  = ""
 		# project_page = ""
 		# code_link = ""
